@@ -10,7 +10,7 @@
     </td>
   </tr>
 </table>
-
+<a href="/index-en.html">英文版</a>
 ## Research
 
 ## Publications
