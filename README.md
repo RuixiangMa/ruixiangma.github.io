@@ -1,4 +1,4 @@
-<table border="0">
+<!-- <table border="0">
   <tr>
     <td width="80%">
       <h1>Ruixiang Ma</h1>
@@ -10,7 +10,7 @@
     </td>
   </tr>
 </table>
-<a href="/index-cn.html">中文版</a>
+<a href="/index-cn.html">中文版</a> -->
 
 ## Research
 
