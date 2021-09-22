@@ -1,8 +1,8 @@
 <table border="0">
   <tr>
-    <td width="75%">
+    <td width="80%">
       <h1>Ruixiang Ma</h1>
-      <p><b>PHD candidate</b></p>
+      <p><b>Ph. D Candidate</b></p>
       <p><b>Computer Architecture, Huazhong University of Science and Technology</b></p>
     </td>
     <td width="25%">
