@@ -1,1 +1,12 @@
 theme: jekyll-theme-cayman
+# Site settings
+title: 马瑞祥 Blog                    
+SEOTitle: Lancer的博客 | BY Blog		
+description: "Hello World!"	   	  
+
+# SNS settings      
+github_username: Lancer     
+zhihu_username: Lancer  
+
+# Build settings
+# paginate: 10   
