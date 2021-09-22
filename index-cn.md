@@ -11,6 +11,8 @@
   </tr>
 </table>
 
+<a href="/README.html">英文版</a>
+
 ## 研究方向
 
 ## 论文
