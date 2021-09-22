@@ -1,14 +1,21 @@
-## 个人信息
-* 姓名
-* 邮箱
-* 地址
-* 学历
+<table border="0">
+  <tr>
+    <td width="75%">
+      <h1>Ruixiang Ma</h1>
+      <p><b>PHD candidate</b></p>
+      <p><b>Computer Architecture, Huazhong University of Science and Technology</b></p>
+    </td>
+    <td width="25%">
+      <img src="/zhengjianzhao.jpg" width="100%">      % 插入证件照代码
+    </td>
+  </tr>
+</table>
 
-## 最新动态
+## Research
 
-## 发表文章
-#### 会议
+## Publications
+* Conference
 
-#### 期刊
+* Journal
 
-## 项目经历
+## Project
