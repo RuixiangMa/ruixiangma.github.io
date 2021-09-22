@@ -10,3 +10,8 @@ zhihu_username: Lancer
 
 # Build settings
 # paginate: 10   
+
+# Sidebar settings
+sidebar: true  #添加侧边栏
+sidebar-about-description: "当你停止尝试时,就是失败的时候"
+sidebar-avatar: ruixiang.jpg  
