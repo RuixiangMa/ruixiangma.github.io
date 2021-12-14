@@ -14,6 +14,8 @@
 
 ## Research
 
+I received the Ph.D. degree with the Wuhan National Laboratory for Optoelectronics(WNLO), Huazhong University of Science and Technology (HUST), Wuhan,in 2021. I am interested in intelligent storage, machine learning, non-volatile memory. I have a strong interest in distribute database and distribute storage.
+
 ## Publications
 * Conference
   > **Ruixiang Ma**, Fei Wu and Changsheng Xie. Intelligent Prediction of Flash Lifetime via Online Domain Adaptation. International Conference on Computer Design （ICCD’21）, 2021.
