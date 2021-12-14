@@ -3,7 +3,8 @@
     <td width="80%">
       <h1>Ruixiang Ma</h1>
       <p><b>Ph. D Candidate</b></p>
-      <p><b>Computer Architecture, Huazhong University of Science and Technology</b></p>
+      <p><b>Computer Architecture</b></p>
+      <p><b>Huazhong University of Science and Technology</b></p>
     </td>
     <td width="25%">
       <img src="/ruixiang.jpg" width="100%">
