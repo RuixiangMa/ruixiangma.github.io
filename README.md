@@ -19,6 +19,9 @@ I received the Ph.D. degree with the Wuhan National Laboratory for Optoelectroni
 
 ## Publications
 * Conference
+
+  >  Kai Lu, Nannan Zhao, Jiguang Wan, Wei Zhao and **Ruixiang Ma**. ADSTS: Automatic Distributed Storage Tuning System Using Deep Reinforcement Learning. International Conference on Parallel Processing（ICPP'22), 2022.
+  
   >  **Ruixiang Ma**, Fei Wu and Changsheng Xie. Intelligent Prediction of Flash Lifetime via Online Domain Adaptation. International Conference on Computer Design （ICCD’21）, 2021.
 
 * Journal
